@@ -1,3 +1,0 @@
-<root>
-<b>http</b> <!--Noncompliant {{only HTTP listeners allowed "HTTP" protocol.}} -->
-</root>

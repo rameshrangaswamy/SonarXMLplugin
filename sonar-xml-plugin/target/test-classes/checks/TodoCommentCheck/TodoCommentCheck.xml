@@ -1,3 +1,0 @@
-<root>
-<b>protocol</b> <!--Noncompliant {{only protocol listeners allowed "protocol" protocol.}} -->
-</root>
