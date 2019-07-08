@@ -1,0 +1,9 @@
+<p>only HTTP listeners allowed.</p>
+<h2>Noncompliant Code Example</h2>
+<pre>
+&lt;http:listener-config name="HTTP_Listener_Configuration" host="0.0.0.0" port="8081" doc:name="HTTP_Request_Configuration"/&gt;
+</pre>
+<h2>Compliant Code Example</h2>
+<pre>
+l="HTTPS" host="${https.host}" port="${https.port}" doc:name="SAP_HTTPS_Listener_Configuration"/&gt;
+</pre>

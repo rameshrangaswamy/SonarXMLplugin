@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.sonar.plugins.xml.XmlHighlightingTest
+-------------------------------------------------------------------------------
+Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.152 s - in org.sonar.plugins.xml.XmlHighlightingTest

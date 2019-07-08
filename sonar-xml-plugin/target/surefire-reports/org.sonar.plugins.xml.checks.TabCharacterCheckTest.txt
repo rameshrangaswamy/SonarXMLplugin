@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.sonar.plugins.xml.checks.TabCharacterCheckTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.172 s - in org.sonar.plugins.xml.checks.TabCharacterCheckTest

@@ -1,0 +1,5 @@
+ <http:listener-config name="OrdersSAPlistenerConfiguration" protocol="HTTPS" host="${https.host}" port="${https.port}" doc:name="SAP_HTTPS_Listener_Configuration">
+<tls:context>
+<tls:key-store type="jks" path="keystore/keystore.jks" alias="mule" keyPassword="${keystore.pass}" password="${keystore.pass}"/>
+</tls:context>
+</http:listener-config>
